@@ -1,7 +1,9 @@
 # NUGU play 개발 공모전 2019 (하반기) 출품작입니다.
 
 # 기능 구현
+
 >사용 언어 : Python
+
 >진행과정
 >>1. Ubuntu 환경의 서버 구축\n
 >>2. Web Crawling을 통해 얻은 각 브랜드의 세일 정보를 MySQL DB에 저장.\n
