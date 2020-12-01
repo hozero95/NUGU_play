@@ -5,10 +5,10 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from pandas import DataFrame as df
 
-# CU
-cu = "https://pyony.com/brands/cu/?page=1&event_type=1&category=&item=100&sort=&q="
-# 이마트24
-emart = "https://pyony.com/brands/emart24/?page=1&event_type=1&category=&item=100&sort=&q="
+# CU URL
+cu = ""
+# Emart24 URL
+emart = ""
 
 
 # ********** 여기만 건들것 **********
